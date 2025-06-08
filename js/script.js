@@ -8,7 +8,7 @@
 
 /**
  * This function gets a random word from the API
- * The 'async' keyword is used because fetching data from the internet takes time
+ * The 'async' keyword is used because it will take time from the internet to give random word
  */
 async function getRandomWord() {
   try {
