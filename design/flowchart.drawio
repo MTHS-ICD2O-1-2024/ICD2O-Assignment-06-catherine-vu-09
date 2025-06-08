@@ -28,7 +28,7 @@
                 <mxCell id="10" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="8" target="3">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="8" value="Show &quot;Random Word &quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;strokeWidth=2;" vertex="1" parent="1">
+                <mxCell id="8" value="Show&amp;nbsp;&lt;div&gt;&quot;Random Word &quot;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;strokeWidth=2;" vertex="1" parent="1">
                     <mxGeometry x="220" y="630" width="120" height="60" as="geometry"/>
                 </mxCell>
             </root>
