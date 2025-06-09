@@ -19,7 +19,7 @@ async function getFunFact() {
     console.log(data)
 
     // Output the fun fact to the page
-    document.getElementById('random-word').innerHTML =
+    document.getElementById('fun-fact').innerHTML =
       '<b>Fun Fact:</b> "' + data.text + '"<br />'
   } catch (error) {
     console.error(error)
