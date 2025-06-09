@@ -7,18 +7,6 @@
 'use strict'
 
 /**
- * This function gets a random word from the API
- * The 'async' keyword is used because it will take time from the internet to give random word
- */
-// Copyright (c) 2025 Catherine Vu All rights reserved
-//
-// Created by: Catherine Vu
-// Created on: June 7 2025
-// This file contains the JS functions for index.html
-
-'use strict'
-
-/**
  * This function gets a random fun fact from the API
  * The 'async' keyword is used because it will take time from the internet to get data
  */
@@ -35,7 +23,5 @@ async function getFunFact() {
       '<b>Fun Fact:</b> "' + data.text + '"<br />'
   } catch (error) {
     console.error(error)
-    document.getElementById('random-word').innerHTML =
-      'Sorry! Could not fetch a fun fact at the moment.'
   }
 }
